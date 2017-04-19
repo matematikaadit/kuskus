@@ -1,0 +1,12 @@
+[package]
+name = "kuskus"
+version = "0.1.0"
+authors = ["Adit Cahya Ramadhan <matematika.adit@gmail.com>"]
+description = "An experimental monoid related data structure"
+documentation = "https://docs.rs/kuskus/"
+homepage = "https://github.com/matematikaadit/kuskus"
+repository = "https://github.com/matematikaadit/kuskus"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
